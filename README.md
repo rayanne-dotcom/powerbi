@@ -1,2 +1,2 @@
 # powerbi
-Here you can check all my Power BI Dashboards potfolio 
+Here you can check all my Power BI Dashboards portfolio 
