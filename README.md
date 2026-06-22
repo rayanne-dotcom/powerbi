@@ -6,6 +6,7 @@ Solution to a case study proposed by Professor Rodrigo Brunini at a workshop hel
 
 Case 2 - Sales performance report
 I used a sample dataset and AI to generate answers to the following questions: 
+
 What is the annual sales performance? 
 → Answered by the "Annual Sales" KPI (showing the consolidated yearly total). 
 
